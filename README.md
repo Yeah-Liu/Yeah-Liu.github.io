@@ -11,7 +11,8 @@ Ye Liu
 |Tel|+86 15600917109
 ****
 ## Education
-* 	Beijing Normal University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China 
+* 	
+	Beijing Normal University 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  　 Beijing, China
 
 	Major: Information Management and Information System                                                     　　　　09/2015-06/2019
 
