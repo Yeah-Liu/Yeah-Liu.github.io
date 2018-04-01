@@ -35,11 +35,11 @@ Ye Liu
 • Improved Collaborative Filtering Algorithm.
 • Involved in building a new movie recommendation model by improved collaborative filtering algorithm.
 ### Global business leadership program                                           UC Berkeley, Stanford                                                            
-#### Member 											                               07/2017-08/2017
+#### Member                                                                       07/2017-08/2017
 • Independently collected data from online book shop by python spider. 
 • Participated in the Global Business Competition, won the first prize. 
 ### Bridge to Future” China-Latin America Young Leaders Training Camp                  Beijing, China
-### Assistant										                                    06/2017-07/2017
+### Assistant                                                                       06/2017-07/2017
 • Coded python & MySql program to help the team to reduce the workload of information retrieval.
 • Served as part-time interpreter & volunteer. 
 ### Beijing Normal University MOOC course construction project "Network Information Metering and Evaluation"                                                                          Beijing, China
