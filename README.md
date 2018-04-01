@@ -20,6 +20,7 @@ Ye Liu
 
 
 ## Skills
+*
 	Programming language: R, Java, Python, MySql 
 	Language: Mandarin Chinese (native), English (fluent)
 
