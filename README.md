@@ -11,9 +11,9 @@ Ye Liu
 |Tel|+86 15600917109
 ****
 ## index
-* [Education](#横线)
-* [Skills](#标题1)
-* [Experiences](#文本)
+* [Education](#Education)
+* [Skills](#Skills)
+* [Experiences](#Experiences)
     * 普通文本
     * 单行文本
     * 多行文本
