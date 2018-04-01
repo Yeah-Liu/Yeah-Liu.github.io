@@ -3,12 +3,8 @@ Ye Liu1
 
 
 ****
-	
-|Author|ye liu|
-|---|---
-|Address|19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
-|E-mail|liuye97@126.com
-|Tel|+86 15600917109
+
+
 ****
 ## Education
 * 	
@@ -64,8 +60,10 @@ Ye Liu1
 *
 	Participated in curriculum design, course recording and post-production.
 
-
-
+## Connect me
+|Address|19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
+|E-mail|liuye97@126.com
+|Tel|+86 15600917109
 标题1
 ------
 
