@@ -4,11 +4,11 @@ Ye Liu
 
 ****
 	
-|Author|果冻虾仁|
+|Author|ye liu|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
-
-
+|Address|19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
+|E-mail|liuye97@126.com
+|Tel|+86 15600917109
 ****
 ## index
 * [Education](#横线)
