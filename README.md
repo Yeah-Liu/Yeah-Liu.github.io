@@ -2,7 +2,18 @@ Ye Liu
 ===========================
 
 
-![](https://github.com/Yeah-Liu/ImageCache/raw/master/Logo/foryou.gif)  
+![](https://github.com/Yeah-Liu/raw/Yeah-Liu.github.io/1.png)  
+
+
+
+
+
+
+
+
+
+
+
 ****
 ## Education
 * 	
@@ -14,7 +25,7 @@ Ye Liu
 *	
 	Berkeley Global business leadership program 　　　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
 
-	Member 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 07/2017-08/2017
+	Member 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 07/2017-08/2017
 
 
 
