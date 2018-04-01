@@ -3,13 +3,13 @@ Ye Liu
 ****
 ## Education
 * 	
-	Beijing Normal University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
+	Beijing Normal University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
 
 	Major: Information Management and Information System                                                     　　　　09/2015-06/2019
 
 	Degree: Bachelor of Management (expected in June 2019)                                         　GPA: 86.3/100  major GPA:90/100
 *	
-	Berkeley Global Business Leadership Program 　　　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
+	Berkeley Global Business Leadership Program 　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
 
 	Member 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　07/2017-08/2017
 
@@ -62,11 +62,11 @@ Ye Liu
 	Beijing Normal University Outstanding Class Leader
 
 ## Connect me
-*
+*	
 	19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
-*
+*	
 	liuye97@126.com
-*
+*	
 	+86 15600917109
 	
 
