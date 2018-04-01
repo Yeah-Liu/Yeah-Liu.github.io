@@ -1,19 +1,5 @@
 Ye Liu
 ===========================
-
-
-![](https://github.com/Yeah-Liu/raw/Yeah-Liu.github.io/1.png)  
-
-
-
-
-
-
-
-
-
-
-
 ****
 ## Education
 * 	
@@ -23,11 +9,9 @@ Ye Liu
 
 	Degree: Bachelor of Management (expected in June 2019)                                         　GPA: 86.3/100  major GPA:90/100
 *	
-	Berkeley Global business leadership program 　　　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
+	Berkeley Global Business Leadership Program 　　　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
 
 	Member 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 07/2017-08/2017
-
-
 
 ## Skills
 *	
