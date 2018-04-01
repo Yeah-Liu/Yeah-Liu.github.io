@@ -10,43 +10,14 @@ Ye Liu
 |E-mail|liuye97@126.com
 |Tel|+86 15600917109
 ****
-## index
+## Education
 * [Education](#Education)
-* [Skills](#Skills)
-* [Experiences](#Experiences)
-    * 普通文本
-    * 单行文本
-    * 多行文本
-    * 文字高亮
-    * 换行
-    * 斜体
-    * 粗体
-    * 删除线
-* [图片](#图片)
-    * 来源于网络的图片
-    * GitHub仓库中的图片
-* [链接](#链接) 
-    * 文字超链接
-        *  链接外部URL
-        *  链接本仓库里的URL
-    *  锚点
-    * [图片链接](#图片链接)
-* [列表](#列表)
-    * 无序列表
-    * 有序列表
-    * 复选框列表
-* [块引用](#块引用)
-* [代码高亮](#代码高亮)
-* [表格](#表格) 
-* [表情](#表情)
-* [diff语法](#diff语法)
+	Beijing Normal University 										  Beijing, China 
 
-Education
------------
-Beijing Normal University 										                  Beijing, China 
-Major: Information Management and Information System                                                                     09/2015-06/2019
-Degree: Bachelor of Management (expected in June 2019)                                                   GPA: 86.3/100  major GPA:90/100
+	Major: Information Management and Information System                                                             09/2015-06/2019
 
+	Degree: Bachelor of Management (expected in June 2019)                                           GPA: 86.3/100  major GPA:90/100
+```
 ***
 ---
 ___
