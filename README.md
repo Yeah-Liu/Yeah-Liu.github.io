@@ -35,34 +35,34 @@ Ye Liu
 ### Projects of the National Social Science Foundation of China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
 #### Ontology automatically building team member　　　　　　　　　　　　　　　					 
 * 	
-	• First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
+	First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
 *
-	• Involved in writing the paper "A review of the past three years about research in semi - automatic construction of the field of information science ".
+	Involved in writing the paper "A review of the past three years about research in semi - automatic construction of the field of information science ".
 *
-	• Performed due the domain ontology construction of information science, involved in data processing, word segmentation & clustering, etc.
+	Performed due the domain ontology construction of information science, involved in data processing, word segmentation & clustering, etc.
 *
-	• Familiarized with Text2Onto framework corpus, completed semi-automatic construction of domain ontology.
+	Familiarized with Text2Onto framework corpus, completed semi-automatic construction of domain ontology.
 	
 ### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program      
 #### Group Leader                                                                      
 *	
-	• Improved Collaborative Filtering Algorithm.
+	Improved Collaborative Filtering Algorithm.
 *
-	• Involved in building a new movie recommendation model by improved collaborative filtering algorithm.
+	Involved in building a new movie recommendation model by improved collaborative filtering algorithm.
 
 ### Bridge to Future” China-Latin America Young Leaders Training Camp                 
 ### Assistant                                                                      
 *
-	• Coded python & MySql program to help the team to reduce the workload of information retrieval.
+	Coded python & MySql program to help the team to reduce the workload of information retrieval.
 *
-	• Served as part-time interpreter & volunteer. 
+	Served as part-time interpreter & volunteer. 
 	
 ### Beijing Normal University MOOC course construction project "Network Information Metering and Evaluation"                    
 #### Teaching Assistant	                                                                
 *
-	• Compiled R, Python course exercises.
+	Compiled R, Python course exercises.
 *
-	• Participated in curriculum design, course recording and post-production.
+	Participated in curriculum design, course recording and post-production.
 
 
 
