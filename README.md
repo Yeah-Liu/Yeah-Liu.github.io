@@ -1,19 +1,15 @@
-Ye Liu1
+Ye Liu
 ===========================
-
-
-****
-
 
 ****
 ## Education
-* 	
+* 
 	Beijing Normal University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
 
 	Major: Information Management and Information System                                                     　　　　09/2015-06/2019
 
 	Degree: Bachelor of Management (expected in June 2019)                                         　GPA: 86.3/100  major GPA:90/100
-*	
+*
 	Berkeley Global business leadership program                                                                UC Berkeley, Stanford 
 
 	Member                                                                                                          07/2017-08/2017
@@ -23,14 +19,14 @@ Ye Liu1
 ## Skills
 *
 	Programming language: R, Java, Python, MySql
-*		
+*
 	Language: Mandarin Chinese (native), English (fluent)
 	
 ## Experiences
 
 ### Projects of the National Social Science Foundation of China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
-#### Ontology automatically building team member　　　　　　　　　　　　　　　					 
-* 	
+#### Ontology automatically building team member　　　　　　　　　
+* 
 	First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
 *
 	Involved in writing the paper "A review of the past three years about research in semi - automatic construction of the field of information science ".
@@ -41,7 +37,7 @@ Ye Liu1
 	
 ### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program      
 #### Group Leader                                                                      
-*	
+*
 	Improved Collaborative Filtering Algorithm.
 *
 	Involved in building a new movie recommendation model by improved collaborative filtering algorithm.
@@ -54,17 +50,19 @@ Ye Liu1
 	Served as part-time interpreter & volunteer. 
 	
 ### Beijing Normal University MOOC course construction project "Network Information Metering and Evaluation"                    
-#### Teaching Assistant	                                                                
+#### Teaching Assistant                                                              
 *
 	Compiled R, Python course exercises.
 *
 	Participated in curriculum design, course recording and post-production.
 
 ## Connect me
-|Address|19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
-|E-mail|liuye97@126.com
-|Tel|+86 15600917109
-标题1
+	|Address|19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
+	|E-mail|liuye97@126.com
+	|Tel|+86 15600917109
+	
+	
+	标题1
 ------
 
 1111111111 
