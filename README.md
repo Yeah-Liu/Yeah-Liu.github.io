@@ -24,10 +24,10 @@ Ye Liu
 	Programming language: R, Java, Python, MySql   
 	Language: Mandarin Chinese (native), English (fluent)
 ## Experiences
-### Projects of the National Social Science Foundation of China        				     Beijing, China 
-#### Ontology automatically building team member										       09/2016-ongoing	
-• First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
-• Involved in writing the paper "A review of the past three years about research in semi - automatic construction of the field of information science ".
+### Projects of the National Social Science Foundation of China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China 
+#### Ontology automatically building team member　　　　　　　　　　　　　　　09/2016-ongoing						 
+* 	• First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
+	• Involved in writing the paper "A review of the past three years about research in semi - automatic construction of the field of information science ".
 • Performed due the domain ontology construction of information science, involved in data processing, word segmentation & clustering, etc.
 • Familiarized with Text2Onto framework corpus, completed semi-automatic construction of domain ontology.
 ### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program       Beijing, China
