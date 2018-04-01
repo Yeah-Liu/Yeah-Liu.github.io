@@ -12,16 +12,21 @@ Ye Liu
 ****
 ## Education
 * 	
-	Beijing Normal University　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
+	Beijing Normal University　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Beijing, China
 
 	Major: Information Management and Information System                                                     　　　　09/2015-06/2019
 
 	Degree: Bachelor of Management (expected in June 2019)                                         　GPA: 86.3/100  major GPA:90/100
-```
+
+
+## Skills
+	Programming language: R, Java, Python, MySql 
+	Language: Mandarin Chinese (native), English (fluent)
+
 ***
 ---
-___
 
+___
 
 
 标题1
