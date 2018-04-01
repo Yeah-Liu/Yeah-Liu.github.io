@@ -41,10 +41,10 @@ Ye Liu
 * [表情](#表情)
 * [diff语法](#diff语法)
 
-### Education
+Education
 -----------
-***、---、___可以显示横线效果
-Beijing Normal University 										                     Beijing, China 
+***、
+Beijing Normal University 										                 Beijing, China 
 Major: Information Management and Information System                                     09/2015-06/2019
 Degree: Bachelor of Management (expected in June 2019)     GPA: 86.3/100  major GPA:90/100
 
