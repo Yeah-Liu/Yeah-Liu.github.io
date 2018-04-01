@@ -11,7 +11,7 @@ Ye Liu
 *	
 	Berkeley Global Business Leadership Program 　　　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
 
-	Member 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 07/2017-08/2017
+	Member 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　07/2017-08/2017
 
 ## Skills
 *	
@@ -54,13 +54,19 @@ Ye Liu
 	Participated in curriculum design, course recording and post-production.
 	
 ### Honors and Awards
-	• Second Class Scholarship, Beijing Normal University
-	• Social Practice Excellent Individual
-	• Beijing Normal University Outstanding Class Leader
+*	
+	Second Class Scholarship, Beijing Normal University
+*
+	Social Practice Excellent Individual
+*
+	Beijing Normal University Outstanding Class Leader
 
 ## Connect me
+*
 	19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
+*
 	liuye97@126.com
+*
 	+86 15600917109
 	
 
