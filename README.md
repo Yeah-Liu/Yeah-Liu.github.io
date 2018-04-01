@@ -21,13 +21,32 @@ Ye Liu
 
 ## Skills
 *
-	Programming language: R, Java, Python, MySql 
+	Programming language: R, Java, Python, MySql   
 	Language: Mandarin Chinese (native), English (fluent)
+## Experiences
+### Projects of the National Social Science Foundation of China        				     Beijing, China 
+Ontology automatically building team member										       09/2016-ongoing	
+• First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
+• Involved in writing the paper "A review of the past three years about research in semi - automatic construction of the field of information science ".
+• Performed due the domain ontology construction of information science, involved in data processing, word segmentation & clustering, etc.
+• Familiarized with Text2Onto framework corpus, completed semi-automatic construction of domain ontology.
+### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program       Beijing, China
+Group Leader                                                                       05/2017-ongoing
+• Improved Collaborative Filtering Algorithm.
+• Involved in building a new movie recommendation model by improved collaborative filtering algorithm.
+### Global business leadership program                                           UC Berkeley, Stanford                                                            
+Member 											                               07/2017-08/2017
+• Independently collected data from online book shop by python spider. 
+• Participated in the Global Business Competition, won the first prize. 
+### Bridge to Future” China-Latin America Young Leaders Training Camp                  Beijing, China
+Assistant										                                    06/2017-07/2017
+• Coded python & MySql program to help the team to reduce the workload of information retrieval.
+• Served as part-time interpreter & volunteer. 
+### Beijing Normal University MOOC course construction project "Network Information Metering and Evaluation"                                                                          Beijing, China
+Teaching Assistant	                                                                  11/2016-03/2017
+• Compiled R, Python course exercises.
+• Participated in curriculum design, course recording and post-production.
 
-***
----
-
-___
 
 
 标题1
