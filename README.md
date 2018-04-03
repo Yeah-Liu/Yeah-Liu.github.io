@@ -32,7 +32,7 @@ Ye Liu
 *	
 	Performed due the domain ontology construction of information science, involved in data processing with python pandas,chinese word segmentation with ictclas and clustering, etc.
 *	
-	Familiarized with Text2Onto ontology framework, completed semi-automatic construction of domain ontology,solved Cold Start Problem in Collaborative Filtering.
+	Familiarized with Text2Onto ontology framework, completed semi-automatic construction of domain ontology.
 	
 ### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program　　　　　　      
 #### 09/2017-ongoing
@@ -40,7 +40,7 @@ Ye Liu
 *	
 	Improved Collaborative Filtering Algorithm.
 *	
-	Involved in building a new movie recommendation model by improved collaborative filtering algorithm,  .
+	Involved in building a new movie recommendation model by improved collaborative filtering algorithm, solved Cold Start Problem in Collaborative Filtering.
 
 ### Bridge to Future” China-Latin America Young Leaders Training Camp                 
 #### 06/2017-07/2017
