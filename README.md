@@ -26,19 +26,19 @@ Ye Liu
 #### 09/2016-ongoing
 #### Ontology automatically building team member　　　　　　　　　
 *	 
-	First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
+	First author paper "Semi-automatic Construction of Ontology in Information Science "ready for submission(CSSCI).
 *	
-	Second author paper "A review of the past three years about research in semi - automatic construction of the field of information science ".(submitted)
+	Second author paper "A review of the past three years about research in semi - automatic construction of the field of information science "submitted.
 *	
 	Performed due the domain ontology construction of information science, involved in data processing with python pandas,chinese word segmentation with ictclas and clustering, etc.
 *	
-	Familiarized with Text2Onto ontology framework, completed semi-automatic construction of domain ontology.
+	Familiarized with Text2Onto ontology framework and ODPs, completed semi-automatic construction of domain ontology.
 	
 ### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program　　　　　　      
 #### 09/2017-ongoing
 #### Group Leader                                                                      
 *	
-	Improved Collaborative Filtering Algorithm.
+	Improved Collaborative Filtering Algorithm,introduced user feature matrix to optimize algorithm.
 *	
 	Involved in building a new movie recommendation model by improved collaborative filtering algorithm, solved Cold Start Problem in Collaborative Filtering.
 
