@@ -11,7 +11,7 @@ Ye Liu
 *	
 	Berkeley Global Business Leadership Program 　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
 
-	Member 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　07/2017-08/2017
+	Camper 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　07/2017-08/2017
 
 ## Skills
 *	
@@ -21,7 +21,8 @@ Ye Liu
 	
 ## Experiences
 
-### Projects of the National Social Science Foundation of China　　　　　　　　09/2016-ongoing　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+### Projects of the National Social Science Foundation of China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+#### 09/2016-ongoing
 #### Ontology automatically building team member　　　　　　　　　
 *	 
 	First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
@@ -33,7 +34,7 @@ Ye Liu
 	Familiarized with Text2Onto framework corpus, completed semi-automatic construction of domain ontology.
 	
 ### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program　　　　　　      
-#### 09/2016-ongoing
+#### 09/2017-ongoing
 #### Group Leader                                                                      
 *	
 	Improved Collaborative Filtering Algorithm.
@@ -41,6 +42,7 @@ Ye Liu
 	Involved in building a new movie recommendation model by improved collaborative filtering algorithm.
 
 ### Bridge to Future” China-Latin America Young Leaders Training Camp                 
+#### 06/2017-07/2017
 #### Assistant                                                                      
 *	
 	Coded python & MySql program to help the team to reduce the workload of information retrieval.
@@ -48,6 +50,7 @@ Ye Liu
 	Served as part-time interpreter & volunteer. 
 	
 ### Beijing Normal University MOOC course construction project "Network Information Metering and Evaluation"                    
+#### 11/2016-03/2017
 #### Teaching Assistant                                                              
 *	
 	Compiled R, Python course exercises.
@@ -56,11 +59,11 @@ Ye Liu
 	
 ### Honors and Awards
 *	
-	Second Class Scholarship, Beijing Normal University
+	Second Class Scholarship, Beijing Normal University, 2016
 *
-	Social Practice Excellent Individual
+	Social Practice Excellent Individual, 06/2016
 *
-	Beijing Normal University Outstanding Class Leader
+	Beijing Normal University Outstanding Class Leader, 06/2015 
 
 ## Connect me
 *	
