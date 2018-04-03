@@ -61,9 +61,9 @@ Ye Liu
 ### Honors and Awards
 *	
 	Second Class Scholarship, Beijing Normal University, 2016
-*
+*	
 	Social Practice Excellent Individual, 06/2016
-*
+*	
 	Beijing Normal University Outstanding Class Leader, 06/2015 
 
 ## Connect me
