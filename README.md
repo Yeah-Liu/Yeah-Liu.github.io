@@ -21,7 +21,7 @@ Ye Liu
 	
 ## Experiences
 
-### Projects of the National Social Science Foundation of China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+### Projects of the National Social Science Foundation of China　　　　　　　　09/2016-ongoing　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
 #### Ontology automatically building team member　　　　　　　　　
 *	 
 	First author paper "Semi-automatic Construction of Ontology in Information Science "(ready for submission).
@@ -32,7 +32,8 @@ Ye Liu
 *	
 	Familiarized with Text2Onto framework corpus, completed semi-automatic construction of domain ontology.
 	
-### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program      
+### Beijing Student’s Platform for Innovation and Entrepreneurship Training Program　　　　　　      
+#### 09/2016-ongoing
 #### Group Leader                                                                      
 *	
 	Improved Collaborative Filtering Algorithm.
