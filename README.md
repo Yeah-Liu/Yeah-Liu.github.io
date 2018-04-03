@@ -70,7 +70,7 @@ Ye Liu
 *	
 	19 Xinjiekou Wai Street, Haidian District, Beijing, China 100875
 *	
-	liuye97@126.com
+	liuye@mail.bnu.edu.cn
 *	
 	+86 15600917109
 	
