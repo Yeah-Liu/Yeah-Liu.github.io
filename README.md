@@ -28,7 +28,7 @@ Ye Liu
 *	 
 	First author paper "Semi-automatic Construction of Ontology in Information Science "ready for submission(CSSCI).
 *	
-	Second author paper "A review of the past three years about research in semi - automatic construction of the field of information science "submitted.
+	Second author paper "A review of the past three years about research in semi - automatic ontology construction of information science "submitted.
 *	
 	Performed due the domain ontology construction of information science, involved in data processing with python pandas,chinese word segmentation with ictclas and clustering, etc.
 *	
