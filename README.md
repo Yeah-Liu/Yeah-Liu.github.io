@@ -22,6 +22,20 @@ Ye Liu
 	
 ## Experiences
 
+### Amazon China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+#### 05/2018-ongoing
+#### Data Analyst intern　　　　　　　　
+*	 
+	Data Analyst of machine learning model kindle customer lifecycle with ability to serve models developed in customer churn prediction.
+*	
+	Contributed to key algorithms to generate model insights and auditability for regulatory compliance.
+*	
+	Supported Senior BI Engineer with Random Forest algorithms for feature analysis and selection. 
+*	
+	Developed kindle Customer Persona Profile models for customer churn analysis, including models for new products.
+*	
+	Provided dashboards and automated reports for business stakeholders.
+
 ### Projects of the National Social Science Foundation of China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
 #### 09/2016-ongoing
 #### Ontology automatically building team member　　　　　　　　　
