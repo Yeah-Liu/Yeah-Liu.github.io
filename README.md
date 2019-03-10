@@ -26,7 +26,7 @@ Ye Liu
 #### 05/2018-02/2019
 #### Data Analyst intern　　　　　　　　
 *	 
-	Data Analyst of machine learning model kindle customer lifecycle with ability to serve models developed in customer churn prediction,improved Kindle customer churn prediction accuracy from 50% to 80%
+	Data Analyst of machine learning model kindle customer lifecycle with ability to serve models developed in customer churn prediction, improved Kindle customer churn prediction accuracy from 50% to 80%
 *	
 	Contributed to key algorithms to generate model insights and auditability for regulatory compliance.
 *	
@@ -37,14 +37,13 @@ Ye Liu
 	Provided dashboards and automated reports for business stakeholders.
 ### Meituan
 #### 02/2019-ongoing
-#### Data Analyst 　　　　　　　　
-*	 
-	Provided data analytics for evaluating how vendor managed inventory affects a supply channel.
-	
-*	
-	Developed machine learning models for integration of warehousing and distribution, including models for new business products.
+#### Data Analyst 　
 *	
 	Contributed to visualizing vehicle routing in logistics systems by using GeoPy package for transportation management system.
+*	 
+	Provided data analytics for evaluating how vendor managed inventory affects a supply channel.	
+*	
+	Developed machine learning models for integration of warehousing and distribution, including models for new business products.
 
 ### Projects of the National Social Science Foundation of China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
 #### 09/2016-ongoing
