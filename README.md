@@ -22,7 +22,7 @@ Ye Liu
 	
 ## Experiences
 
-### Amazon China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+### Amazon China Kindle　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
 #### 05/2018-02/2019
 #### Data Analyst intern　　　　　　　　
 *	 
