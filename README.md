@@ -8,7 +8,7 @@ Ye Liu
 
 	Major: Information Management and Information System                                                     　　　　09/2015-06/2019
 
-	Degree: Bachelor of Management (expected in June 2019)                                         　GPA: 86.3/100  major GPA:90/100
+	Degree: Bachelor of Management (expected in June 2019)                                         　GPA: 87/100  major GPA:90/100
 *	
 	Berkeley Global Business Leadership Program 　　　　　　　　　　　　　　　　　　　　　　　　UC Berkeley, Stanford 
 
