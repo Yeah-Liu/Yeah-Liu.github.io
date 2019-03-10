@@ -36,9 +36,10 @@ Ye Liu
 *	
 	Provided dashboards and automated reports for business stakeholders.
 	
-### Meituan B2B　
+### Meituan B2B　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　         
 #### 02/2019-ongoin
-#### Data Analyst　
+#### Data Analyst　　　　　　　　　        
+
 *	
 	Contributed to visualizing vehicle routing in logistics systems by using GeoPy package for transportation management system.
 *	 
