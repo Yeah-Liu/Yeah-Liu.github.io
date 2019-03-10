@@ -36,8 +36,6 @@ Ye Liu
 *	
 	Provided dashboards and automated reports for business stakeholders.
 ### Meituan B2B　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
-
-### Meituan B2B Department
 #### 02/2019-ongoing
 #### Data Analyst 　
 *	
