@@ -35,7 +35,7 @@ Ye Liu
 	Developed kindle Customer Persona Profile models for customer churn analysis, including models for new products.
 *	
 	Provided dashboards and automated reports for business stakeholders.
-### Amazon China　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+### Meituan B2B　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
 
 ### Meituan B2B Department
 #### 02/2019-ongoing
